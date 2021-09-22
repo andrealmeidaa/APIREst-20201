@@ -1,4 +1,4 @@
-import requests
+import requests,json
 
 URL='http://localhost:5000/marcas'
 dados={'nome':'Ferrari'}
